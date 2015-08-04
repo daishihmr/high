@@ -23,6 +23,12 @@
     Math.RAD_TO_DEG = 180/Math.PI;
     
     /**
+     * @property PHI
+     * golden ratio.
+     */
+    Math.PHI = Math.sqrt(1.25) + 0.5;
+    
+    /**
      * @method
      * Degree を Radian に変換
      */
